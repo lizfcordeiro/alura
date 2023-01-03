@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b715c1-416c-4e70-ab07-db40b06a4f7d" name="Changes" comment="Primeiro commit" />
+    <list default="true" id="65b715c1-416c-4e70-ab07-db40b06a4f7d" name="Changes" comment="Primeiro commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/imposto/ICMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/imposto/ISS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/imposto/Imposto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CalculadoraDeImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/imposto/CalculadoraDeImpostos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TipoImposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/imposto/TipoImposto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/orcamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/imposto/Orcamento.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -58,7 +68,7 @@
       <module name="Strategy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.imposto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672721850005</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Primeiro commit">
+      <created>1672722231804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672722231804</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

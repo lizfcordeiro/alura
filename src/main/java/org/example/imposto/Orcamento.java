@@ -1,10 +1,10 @@
-package org.example;
+package org.example.imposto;
 
 import java.math.BigDecimal;
 
-public class orcamento {
+public class Orcamento {
     public BigDecimal valor;
-    public orcamento(BigDecimal valor){
+    public Orcamento(BigDecimal valor){
         this.valor = valor;
     }
 
